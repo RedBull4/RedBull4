@@ -2,7 +2,7 @@
 
 My name is Alexandr and I am 14 years old.
 
-- 🔭 I’m currently working on a simple_cfg_reader project.
+- 🔭 I’m currently working on a cfg_manipulator project.
 - 🌱 I’m currently learning C and C++.
 - 🤔 I’m looking for help with developing projects.
 - 💬 Ask me about everything : )
